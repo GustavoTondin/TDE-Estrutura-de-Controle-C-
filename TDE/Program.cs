@@ -123,7 +123,7 @@ switch (opc)
             if (escolha == numero)
             {
                 Console.WriteLine($"Você acertou!! O número aleatório era {numero}");
-                if (contador == 3)
+                if (contador == 10)
                 {
                     Console.WriteLine("Acertou de primeira, ta de hack!!");
                 }
