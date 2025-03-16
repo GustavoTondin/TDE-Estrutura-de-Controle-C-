@@ -84,7 +84,7 @@ switch (opc)
                 int d1 = Convert.ToInt32(Console.ReadLine());
                 Console.Write("Digite outro numero para ser a base da divisão: ");
                 int d2 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine($"A multiplicação dos numeros {d1} e {d2} é: {d1 / d2}");
+                Console.WriteLine($"A divisão dos numeros {d1} e {d2} é: {d1 / d2}");
                 continue;
             case 4:
                 Console.Write("Digite um numero para subtrair: ");
@@ -94,7 +94,7 @@ switch (opc)
                 Console.WriteLine($"A subtração dos numeros {sub1} e {sub2} é: {sub1 - sub2}");
                 continue;
             case 5:
-                Console.WriteLine("Saind do programa...");
+                Console.WriteLine("Saindo do programa...");
                 break;
             default:
                 Console.WriteLine("Digite uma opção valida !!!");
