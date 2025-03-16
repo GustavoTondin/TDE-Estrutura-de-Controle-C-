@@ -1,0 +1,14 @@
+d:\Projetos\LAB P\TDE\bin\Debug\net8.0\TDE.exe
+D:\Projetos\LAB P\TDE\bin\Debug\net8.0\TDE.deps.json
+D:\Projetos\LAB P\TDE\bin\Debug\net8.0\TDE.runtimeconfig.json
+d:\Projetos\LAB P\TDE\bin\Debug\net8.0\TDE.dll
+d:\Projetos\LAB P\TDE\bin\Debug\net8.0\TDE.pdb
+d:\Projetos\LAB P\TDE\obj\Debug\net8.0\TDE.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projetos\LAB P\TDE\obj\Debug\net8.0\TDE.AssemblyInfoInputs.cache
+d:\Projetos\LAB P\TDE\obj\Debug\net8.0\TDE.AssemblyInfo.cs
+d:\Projetos\LAB P\TDE\obj\Debug\net8.0\TDE.csproj.CoreCompileInputs.cache
+d:\Projetos\LAB P\TDE\obj\Debug\net8.0\TDE.dll
+d:\Projetos\LAB P\TDE\obj\Debug\net8.0\refint\TDE.dll
+d:\Projetos\LAB P\TDE\obj\Debug\net8.0\TDE.pdb
+D:\Projetos\LAB P\TDE\obj\Debug\net8.0\TDE.genruntimeconfig.cache
+D:\Projetos\LAB P\TDE\obj\Debug\net8.0\ref\TDE.dll
